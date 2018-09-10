@@ -1,0 +1,592 @@
+[ERROR] 11:48:47:537 Instancia/(8416:8416): Error de configuracion: faltan datos
+[ERROR] 11:49:11:822 Instancia/(8432:8432): Error de configuracion: faltan datos
+[INFO] 11:50:01:304 Instancia/(8449:8449): Iniciando Instancia..
+
+
+[INFO] 11:50:06:221 Instancia/(8451:8451): Iniciando Instancia..
+
+
+[INFO] 11:50:46:89 Instancia/(8482:8482): Iniciando Instancia..
+
+
+[INFO] 11:50:46:90 Instancia/(8482:8482): Conexion exitosa!
+
+
+[INFO] 11:50:46:92 Instancia/(8482:8482): Esperando datos de configuracion..
+[INFO] 11:51:03:518 Instancia/(8487:8487): Iniciando Instancia..
+
+
+[INFO] 11:51:03:529 Instancia/(8487:8487): Conexion exitosa!
+
+
+[INFO] 11:51:03:530 Instancia/(8487:8487): Esperando datos de configuracion..
+[INFO] 17:24:45:114 Instancia/(12235:12235): Iniciando Instancia..
+
+
+[INFO] 17:24:45:115 Instancia/(12235:12235): Conexion exitosa!
+
+
+[INFO] 17:24:45:116 Instancia/(12235:12235): Esperando datos de configuracion..
+[INFO] 17:25:00:274 Instancia/(12238:12238): Iniciando Instancia..
+
+
+[INFO] 17:25:00:276 Instancia/(12238:12238): Conexion exitosa!
+
+
+[INFO] 17:25:00:277 Instancia/(12238:12238): Esperando datos de configuracion..
+[INFO] 18:05:07:204 Instancia/(13176:13176): Iniciando Instancia..
+
+
+[INFO] 18:05:07:205 Instancia/(13176:13176): Conexion exitosa!
+
+
+[INFO] 18:05:07:206 Instancia/(13176:13176): Esperando datos de configuracion..
+[INFO] 23:30:56:340 Instancia/(19280:19280): Iniciando Instancia..
+
+
+[INFO] 23:30:56:341 Instancia/(19280:19280): Conexion exitosa!
+
+
+[INFO] 23:30:56:343 Instancia/(19280:19280): Esperando datos de configuracion..
+[INFO] 23:31:29:793 Instancia/(19288:19288): Iniciando Instancia..
+
+
+[INFO] 23:31:43:534 Instancia/(19297:19297): Iniciando Instancia..
+
+
+[INFO] 23:31:43:535 Instancia/(19297:19297): Conexion exitosa!
+
+
+[INFO] 23:31:43:536 Instancia/(19297:19297): Esperando datos de configuracion..
+[INFO] 23:34:09:417 Instancia/(19327:19327): Iniciando Instancia..
+
+
+[INFO] 23:34:09:418 Instancia/(19327:19327): Conexion exitosa!
+
+
+[INFO] 23:34:09:419 Instancia/(19327:19327): Esperando datos de configuracion..
+[INFO] 23:34:29:887 Instancia/(19327:19327): Server Disconnected
+[INFO] 23:37:28:284 Instancia/(19366:19366): Iniciando Instancia..
+
+
+[INFO] 23:37:28:285 Instancia/(19366:19366): Conexion exitosa!
+
+
+[INFO] 23:37:28:287 Instancia/(19366:19366): Esperando datos de configuracion..
+[INFO] 23:38:26:23 Instancia/(19366:19366): Server Disconnected
+[INFO] 23:38:33:214 Instancia/(19393:19393): Iniciando Instancia..
+
+
+[INFO] 23:38:33:215 Instancia/(19393:19393): Conexion exitosa!
+
+
+[INFO] 23:38:33:216 Instancia/(19393:19393): Esperando datos de configuracion..
+[INFO] 23:39:50:530 Instancia/(19393:19393): Server Disconnected
+[INFO] 23:39:56:769 Instancia/(19433:19433): Iniciando Instancia..
+
+
+[INFO] 23:39:56:770 Instancia/(19433:19433): Conexion exitosa!
+
+
+[INFO] 23:39:56:771 Instancia/(19433:19433): Esperando datos de configuracion..
+[INFO] 23:45:11:495 Instancia/(19483:19483): Iniciando Instancia..
+
+
+[INFO] 23:45:11:496 Instancia/(19483:19483): Conexion exitosa!
+
+
+[INFO] 23:45:11:497 Instancia/(19483:19483): Esperando datos de configuracion..
+[INFO] 23:45:20:502 Instancia/(19483:19483): Server Disconnected
+[INFO] 23:48:15:235 Instancia/(19506:19506): Iniciando Instancia..
+
+
+[INFO] 23:48:15:236 Instancia/(19506:19506): Conexion exitosa!
+
+
+[INFO] 23:48:15:237 Instancia/(19506:19506): Esperando datos de configuracion..
+[INFO] 23:48:24:250 Instancia/(19506:19506): Server Disconnected
+[INFO] 23:48:42:696 Instancia/(19530:19530): Iniciando Instancia..
+
+
+[INFO] 23:48:42:697 Instancia/(19530:19530): Conexion exitosa!
+
+
+[INFO] 23:48:42:698 Instancia/(19530:19530): Esperando datos de configuracion..
+[INFO] 23:48:51:704 Instancia/(19530:19530): Server Disconnected
+[INFO] 00:18:08:265 Instancia/(4007:4007): Iniciando Instancia..
+
+
+[INFO] 00:18:08:266 Instancia/(4007:4007): Conexion exitosa!
+
+
+[INFO] 00:18:08:268 Instancia/(4007:4007): Esperando datos de configuracion..
+[INFO] 00:18:17:279 Instancia/(4007:4007): Server Disconnected
+[INFO] 21:31:37:609 Instancia/(5284:5284): Iniciando Instancia..
+
+
+[INFO] 21:31:37:611 Instancia/(5284:5284): Conexion exitosa!
+
+
+[INFO] 21:31:37:612 Instancia/(5284:5284): Esperando datos de configuracion..
+[INFO] 21:31:46:617 Instancia/(5284:5284): Server Disconnected
+[INFO] 05:24:50:629 Instancia/(8018:8018): Iniciando Instancia..
+
+
+[INFO] 05:24:50:630 Instancia/(8018:8018): Conexion exitosa!
+
+
+[INFO] 05:24:50:631 Instancia/(8018:8018): Esperando datos de configuracion..
+[INFO] 05:24:59:646 Instancia/(8018:8018): Server Disconnected
+[INFO] 05:25:13:704 Instancia/(8034:8034): Iniciando Instancia..
+
+
+[INFO] 05:25:19:139 Instancia/(8038:8038): Iniciando Instancia..
+
+
+[INFO] 05:25:19:140 Instancia/(8038:8038): Conexion exitosa!
+
+
+[INFO] 05:25:19:142 Instancia/(8038:8038): Esperando datos de configuracion..
+[INFO] 05:25:28:147 Instancia/(8038:8038): Server Disconnected
+[INFO] 05:30:16:352 Instancia/(8127:8127): Iniciando Instancia..
+
+
+[INFO] 05:30:16:353 Instancia/(8127:8127): Conexion exitosa!
+
+
+[INFO] 05:30:16:353 Instancia/(8127:8127): Esperando datos de configuracion..
+[INFO] 05:30:51:564 Instancia/(8142:8142): Iniciando Instancia..
+
+
+[INFO] 05:31:09:674 Instancia/(8146:8146): Iniciando Instancia..
+
+
+[INFO] 05:31:09:676 Instancia/(8146:8146): Conexion exitosa!
+
+
+[INFO] 05:31:09:677 Instancia/(8146:8146): Esperando datos de configuracion..
+[INFO] 05:31:23:445 Instancia/(8149:8149): Iniciando Instancia..
+
+
+[INFO] 05:31:23:449 Instancia/(8149:8149): Conexion exitosa!
+
+
+[INFO] 05:31:23:449 Instancia/(8149:8149): Esperando datos de configuracion..
+[INFO] 05:33:40:248 Instancia/(8186:8186): Iniciando Instancia..
+
+
+[INFO] 05:33:40:250 Instancia/(8186:8186): Conexion exitosa!
+
+
+[INFO] 05:33:40:251 Instancia/(8186:8186): Esperando datos de configuracion..
+[INFO] 05:33:44:880 Instancia/(8192:8192): Iniciando Instancia..
+
+
+[INFO] 05:33:44:883 Instancia/(8192:8192): Conexion exitosa!
+
+
+[INFO] 05:33:44:884 Instancia/(8192:8192): Esperando datos de configuracion..
+[INFO] 05:33:49:97 Instancia/(8198:8198): Iniciando Instancia..
+
+
+[INFO] 05:33:49:99 Instancia/(8198:8198): Conexion exitosa!
+
+
+[INFO] 05:33:49:99 Instancia/(8198:8198): Esperando datos de configuracion..
+[INFO] 05:33:51:105 Instancia/(8208:8208): Iniciando Instancia..
+
+
+[INFO] 05:33:52:270 Instancia/(8210:8210): Iniciando Instancia..
+
+
+[INFO] 05:36:03:983 Instancia/(8234:8234): Iniciando Instancia..
+
+
+[INFO] 05:36:03:987 Instancia/(8234:8234): Conexion exitosa!
+
+
+[INFO] 05:36:03:988 Instancia/(8234:8234): Esperando datos de configuracion..
+[INFO] 05:36:05:440 Instancia/(8237:8237): Iniciando Instancia..
+
+
+[INFO] 05:36:05:442 Instancia/(8237:8237): Conexion exitosa!
+
+
+[INFO] 05:36:05:442 Instancia/(8237:8237): Esperando datos de configuracion..
+[INFO] 05:36:06:174 Instancia/(8240:8240): Iniciando Instancia..
+
+
+[INFO] 05:36:06:178 Instancia/(8240:8240): Conexion exitosa!
+
+
+[INFO] 05:36:06:178 Instancia/(8240:8240): Esperando datos de configuracion..
+[INFO] 05:36:06:748 Instancia/(8243:8243): Iniciando Instancia..
+
+
+[INFO] 05:36:06:749 Instancia/(8243:8243): Conexion exitosa!
+
+
+[INFO] 05:36:06:750 Instancia/(8243:8243): Esperando datos de configuracion..
+[INFO] 05:36:07:407 Instancia/(8246:8246): Iniciando Instancia..
+
+
+[INFO] 05:36:07:408 Instancia/(8246:8246): Conexion exitosa!
+
+
+[INFO] 05:36:07:408 Instancia/(8246:8246): Esperando datos de configuracion..
+[INFO] 05:36:08:120 Instancia/(8249:8249): Iniciando Instancia..
+
+
+[INFO] 05:36:08:121 Instancia/(8249:8249): Conexion exitosa!
+
+
+[INFO] 05:36:08:121 Instancia/(8249:8249): Esperando datos de configuracion..
+[INFO] 05:36:08:703 Instancia/(8252:8252): Iniciando Instancia..
+
+
+[INFO] 05:36:08:705 Instancia/(8252:8252): Conexion exitosa!
+
+
+[INFO] 05:36:08:705 Instancia/(8252:8252): Esperando datos de configuracion..
+[INFO] 05:36:09:352 Instancia/(8255:8255): Iniciando Instancia..
+
+
+[INFO] 05:36:09:354 Instancia/(8255:8255): Conexion exitosa!
+
+
+[INFO] 05:36:09:355 Instancia/(8255:8255): Esperando datos de configuracion..
+[INFO] 05:36:10:90 Instancia/(8258:8258): Iniciando Instancia..
+
+
+[INFO] 05:36:10:91 Instancia/(8258:8258): Conexion exitosa!
+
+
+[INFO] 05:36:10:92 Instancia/(8258:8258): Esperando datos de configuracion..
+[INFO] 05:36:11:396 Instancia/(8261:8261): Iniciando Instancia..
+
+
+[INFO] 05:36:11:397 Instancia/(8261:8261): Conexion exitosa!
+
+
+[INFO] 05:36:11:398 Instancia/(8261:8261): Esperando datos de configuracion..
+[INFO] 05:36:11:683 Instancia/(8264:8264): Iniciando Instancia..
+
+
+[INFO] 05:36:11:685 Instancia/(8264:8264): Conexion exitosa!
+
+
+[INFO] 05:36:11:685 Instancia/(8264:8264): Esperando datos de configuracion..
+[INFO] 05:36:11:914 Instancia/(8267:8267): Iniciando Instancia..
+
+
+[INFO] 05:36:11:916 Instancia/(8267:8267): Conexion exitosa!
+
+
+[INFO] 05:36:11:916 Instancia/(8267:8267): Esperando datos de configuracion..
+[INFO] 05:36:12:173 Instancia/(8270:8270): Iniciando Instancia..
+
+
+[INFO] 05:36:12:175 Instancia/(8270:8270): Conexion exitosa!
+
+
+[INFO] 05:36:12:176 Instancia/(8270:8270): Esperando datos de configuracion..
+[INFO] 05:36:12:439 Instancia/(8273:8273): Iniciando Instancia..
+
+
+[INFO] 05:36:12:440 Instancia/(8273:8273): Conexion exitosa!
+
+
+[INFO] 05:36:12:440 Instancia/(8273:8273): Esperando datos de configuracion..
+[INFO] 05:36:12:659 Instancia/(8276:8276): Iniciando Instancia..
+
+
+[INFO] 05:36:12:663 Instancia/(8276:8276): Conexion exitosa!
+
+
+[INFO] 05:36:12:663 Instancia/(8276:8276): Esperando datos de configuracion..
+[INFO] 05:36:12:906 Instancia/(8279:8279): Iniciando Instancia..
+
+
+[INFO] 05:36:12:908 Instancia/(8279:8279): Conexion exitosa!
+
+
+[INFO] 05:36:12:910 Instancia/(8279:8279): Esperando datos de configuracion..
+[INFO] 05:36:13:140 Instancia/(8282:8282): Iniciando Instancia..
+
+
+[INFO] 05:36:13:142 Instancia/(8282:8282): Conexion exitosa!
+
+
+[INFO] 05:36:13:145 Instancia/(8282:8282): Esperando datos de configuracion..
+[INFO] 05:36:13:363 Instancia/(8285:8285): Iniciando Instancia..
+
+
+[INFO] 05:36:13:365 Instancia/(8285:8285): Conexion exitosa!
+
+
+[INFO] 05:36:13:366 Instancia/(8285:8285): Esperando datos de configuracion..
+[INFO] 05:36:13:587 Instancia/(8288:8288): Iniciando Instancia..
+
+
+[INFO] 05:36:13:589 Instancia/(8288:8288): Conexion exitosa!
+
+
+[INFO] 05:36:13:589 Instancia/(8288:8288): Esperando datos de configuracion..
+[INFO] 05:36:13:823 Instancia/(8292:8292): Iniciando Instancia..
+
+
+[INFO] 05:36:13:825 Instancia/(8292:8292): Conexion exitosa!
+
+
+[INFO] 05:36:13:825 Instancia/(8292:8292): Esperando datos de configuracion..
+[INFO] 05:36:14:59 Instancia/(8296:8296): Iniciando Instancia..
+
+
+[INFO] 05:36:14:62 Instancia/(8296:8296): Conexion exitosa!
+
+
+[INFO] 05:36:14:62 Instancia/(8296:8296): Esperando datos de configuracion..
+[INFO] 05:36:14:307 Instancia/(8301:8301): Iniciando Instancia..
+
+
+[INFO] 05:36:14:309 Instancia/(8301:8301): Conexion exitosa!
+
+
+[INFO] 05:36:14:309 Instancia/(8301:8301): Esperando datos de configuracion..
+[INFO] 05:36:14:554 Instancia/(8304:8304): Iniciando Instancia..
+
+
+[INFO] 05:36:14:557 Instancia/(8304:8304): Conexion exitosa!
+
+
+[INFO] 05:36:14:557 Instancia/(8304:8304): Esperando datos de configuracion..
+[INFO] 05:36:14:796 Instancia/(8307:8307): Iniciando Instancia..
+
+
+[INFO] 05:36:14:798 Instancia/(8307:8307): Conexion exitosa!
+
+
+[INFO] 05:36:14:799 Instancia/(8307:8307): Esperando datos de configuracion..
+[INFO] 05:36:15:42 Instancia/(8310:8310): Iniciando Instancia..
+
+
+[INFO] 05:36:15:45 Instancia/(8310:8310): Conexion exitosa!
+
+
+[INFO] 05:36:15:46 Instancia/(8310:8310): Esperando datos de configuracion..
+[INFO] 05:36:15:291 Instancia/(8313:8313): Iniciando Instancia..
+
+
+[INFO] 05:36:15:296 Instancia/(8313:8313): Conexion exitosa!
+
+
+[INFO] 05:36:15:296 Instancia/(8313:8313): Esperando datos de configuracion..
+[INFO] 05:36:15:538 Instancia/(8316:8316): Iniciando Instancia..
+
+
+[INFO] 05:36:15:540 Instancia/(8316:8316): Conexion exitosa!
+
+
+[INFO] 05:36:15:540 Instancia/(8316:8316): Esperando datos de configuracion..
+[INFO] 05:36:15:759 Instancia/(8319:8319): Iniciando Instancia..
+
+
+[INFO] 05:36:15:761 Instancia/(8319:8319): Conexion exitosa!
+
+
+[INFO] 05:36:15:762 Instancia/(8319:8319): Esperando datos de configuracion..
+[INFO] 05:36:15:987 Instancia/(8322:8322): Iniciando Instancia..
+
+
+[INFO] 05:36:15:989 Instancia/(8322:8322): Conexion exitosa!
+
+
+[INFO] 05:36:15:989 Instancia/(8322:8322): Esperando datos de configuracion..
+[INFO] 05:36:16:226 Instancia/(8325:8325): Iniciando Instancia..
+
+
+[INFO] 05:36:16:232 Instancia/(8325:8325): Conexion exitosa!
+
+
+[INFO] 05:36:16:232 Instancia/(8325:8325): Esperando datos de configuracion..
+[INFO] 05:36:16:457 Instancia/(8328:8328): Iniciando Instancia..
+
+
+[INFO] 05:36:16:459 Instancia/(8328:8328): Conexion exitosa!
+
+
+[INFO] 05:36:16:459 Instancia/(8328:8328): Esperando datos de configuracion..
+[INFO] 05:36:16:664 Instancia/(8331:8331): Iniciando Instancia..
+
+
+[INFO] 05:36:16:665 Instancia/(8331:8331): Conexion exitosa!
+
+
+[INFO] 05:36:16:666 Instancia/(8331:8331): Esperando datos de configuracion..
+[INFO] 05:36:16:865 Instancia/(8334:8334): Iniciando Instancia..
+
+
+[INFO] 05:36:16:866 Instancia/(8334:8334): Conexion exitosa!
+
+
+[INFO] 05:36:16:867 Instancia/(8334:8334): Esperando datos de configuracion..
+[INFO] 05:36:17:86 Instancia/(8337:8337): Iniciando Instancia..
+
+
+[INFO] 05:36:17:88 Instancia/(8337:8337): Conexion exitosa!
+
+
+[INFO] 05:36:17:89 Instancia/(8337:8337): Esperando datos de configuracion..
+[INFO] 05:36:17:305 Instancia/(8340:8340): Iniciando Instancia..
+
+
+[INFO] 05:36:17:307 Instancia/(8340:8340): Conexion exitosa!
+
+
+[INFO] 05:36:17:307 Instancia/(8340:8340): Esperando datos de configuracion..
+[INFO] 05:36:17:518 Instancia/(8343:8343): Iniciando Instancia..
+
+
+[INFO] 05:36:17:520 Instancia/(8343:8343): Conexion exitosa!
+
+
+[INFO] 05:36:17:520 Instancia/(8343:8343): Esperando datos de configuracion..
+[INFO] 05:36:17:732 Instancia/(8346:8346): Iniciando Instancia..
+
+
+[INFO] 05:36:17:733 Instancia/(8346:8346): Conexion exitosa!
+
+
+[INFO] 05:36:17:734 Instancia/(8346:8346): Esperando datos de configuracion..
+[INFO] 05:36:17:913 Instancia/(8349:8349): Iniciando Instancia..
+
+
+[INFO] 05:36:17:914 Instancia/(8349:8349): Conexion exitosa!
+
+
+[INFO] 05:36:17:915 Instancia/(8349:8349): Esperando datos de configuracion..
+[INFO] 05:37:51:602 Instancia/(8503:8503): Iniciando Instancia..
+
+
+[INFO] 05:37:51:603 Instancia/(8503:8503): Conexion exitosa!
+
+
+[INFO] 05:37:51:604 Instancia/(8503:8503): Esperando datos de configuracion..
+[INFO] 05:37:52:191 Instancia/(8506:8506): Iniciando Instancia..
+
+
+[INFO] 05:37:52:193 Instancia/(8506:8506): Conexion exitosa!
+
+
+[INFO] 05:37:52:193 Instancia/(8506:8506): Esperando datos de configuracion..
+[INFO] 05:37:52:694 Instancia/(8509:8509): Iniciando Instancia..
+
+
+[INFO] 05:37:52:696 Instancia/(8509:8509): Conexion exitosa!
+
+
+[INFO] 05:37:52:696 Instancia/(8509:8509): Esperando datos de configuracion..
+[INFO] 05:37:53:174 Instancia/(8512:8512): Iniciando Instancia..
+
+
+[INFO] 05:37:53:175 Instancia/(8512:8512): Conexion exitosa!
+
+
+[INFO] 05:37:53:176 Instancia/(8512:8512): Esperando datos de configuracion..
+[INFO] 05:37:53:640 Instancia/(8515:8515): Iniciando Instancia..
+
+
+[INFO] 05:37:53:642 Instancia/(8515:8515): Conexion exitosa!
+
+
+[INFO] 05:37:53:642 Instancia/(8515:8515): Esperando datos de configuracion..
+[INFO] 05:37:54:115 Instancia/(8518:8518): Iniciando Instancia..
+
+
+[INFO] 05:37:54:116 Instancia/(8518:8518): Conexion exitosa!
+
+
+[INFO] 05:37:54:117 Instancia/(8518:8518): Esperando datos de configuracion..
+[INFO] 05:37:54:586 Instancia/(8521:8521): Iniciando Instancia..
+
+
+[INFO] 05:37:54:589 Instancia/(8521:8521): Conexion exitosa!
+
+
+[INFO] 05:37:54:589 Instancia/(8521:8521): Esperando datos de configuracion..
+[INFO] 05:37:55:39 Instancia/(8524:8524): Iniciando Instancia..
+
+
+[INFO] 05:37:55:41 Instancia/(8524:8524): Conexion exitosa!
+
+
+[INFO] 05:37:55:41 Instancia/(8524:8524): Esperando datos de configuracion..
+[INFO] 05:37:55:488 Instancia/(8527:8527): Iniciando Instancia..
+
+
+[INFO] 05:37:55:491 Instancia/(8527:8527): Conexion exitosa!
+
+
+[INFO] 05:37:55:492 Instancia/(8527:8527): Esperando datos de configuracion..
+[INFO] 05:37:55:933 Instancia/(8530:8530): Iniciando Instancia..
+
+
+[INFO] 05:37:55:937 Instancia/(8530:8530): Conexion exitosa!
+
+
+[INFO] 05:37:55:937 Instancia/(8530:8530): Esperando datos de configuracion..
+[INFO] 05:37:56:377 Instancia/(8533:8533): Iniciando Instancia..
+
+
+[INFO] 05:37:56:379 Instancia/(8533:8533): Conexion exitosa!
+
+
+[INFO] 05:37:56:380 Instancia/(8533:8533): Esperando datos de configuracion..
+[INFO] 05:44:37:866 Instancia/(8891:8891): Iniciando Instancia..
+
+
+[INFO] 05:44:37:869 Instancia/(8891:8891): Conexion exitosa!
+
+
+[INFO] 05:44:37:869 Instancia/(8891:8891): Esperando datos de configuracion..
+[INFO] 05:44:38:936 Instancia/(8894:8894): Iniciando Instancia..
+
+
+[INFO] 05:44:38:938 Instancia/(8894:8894): Conexion exitosa!
+
+
+[INFO] 05:44:38:938 Instancia/(8894:8894): Esperando datos de configuracion..
+[INFO] 05:44:39:819 Instancia/(8897:8897): Iniciando Instancia..
+
+
+[INFO] 05:44:39:821 Instancia/(8897:8897): Conexion exitosa!
+
+
+[INFO] 05:44:39:821 Instancia/(8897:8897): Esperando datos de configuracion..
+[INFO] 05:47:00:649 Instancia/(8946:8946): Iniciando Instancia..
+
+
+[INFO] 05:47:00:651 Instancia/(8946:8946): Conexion exitosa!
+
+
+[INFO] 05:47:00:651 Instancia/(8946:8946): Esperando datos de configuracion..
+[INFO] 05:47:01:344 Instancia/(8949:8949): Iniciando Instancia..
+
+
+[INFO] 05:47:01:347 Instancia/(8949:8949): Conexion exitosa!
+
+
+[INFO] 05:47:01:348 Instancia/(8949:8949): Esperando datos de configuracion..
+[INFO] 05:47:07:73 Instancia/(8961:8961): Iniciando Instancia..
+
+
+[INFO] 05:47:07:84 Instancia/(8961:8961): Conexion exitosa!
+
+
+[INFO] 05:47:07:84 Instancia/(8961:8961): Esperando datos de configuracion..
+[INFO] 05:47:08:135 Instancia/(8974:8974): Iniciando Instancia..
+
+
+[INFO] 05:47:11:736 Instancia/(8976:8976): Iniciando Instancia..
+
+
