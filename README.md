@@ -1,1 +1,3 @@
-# tp-2018-1c-Los-ChantasV1.0
+# Sistema distribuido 
+
+### Ejecutor de sentencias interactivo (ESI)
